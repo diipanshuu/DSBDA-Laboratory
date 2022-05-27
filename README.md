@@ -20,3 +20,5 @@ transformation should be one of the following reasons: to change the scale for b
 understanding of the variable, to convert a non-linear relation into a linear one, or to 
 decrease the skewness and convert the distribution into a normal distribution. 
 Reason and document your approach properly.
+
+# Descriptive Statistics-3:
