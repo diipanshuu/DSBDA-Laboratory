@@ -45,3 +45,9 @@ Implement logistic regression using Python/R to perform classification on
 a dataset. 
 Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision, 
 Recall on the given dataset.
+
+# Data Analytics-III-6:
+Implement Simple Naive Bayes classification algorithm using Python/R on iris.csv 
+dataset. 
+Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision, 
+Recall on the given dataset.
