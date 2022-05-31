@@ -51,3 +51,9 @@ Implement Simple Naive Bayes classification algorithm using Python/R on iris.csv
 dataset. 
 Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision, 
 Recall on the given dataset.
+
+#  Text Analytics 
+Extract Sample document and apply following document preprocessing methods: 
+Tokenization, POS Tagging, stop words removal, Stemming and Lemmatization. 
+Create representation of document by calculating Term Frequency and Inverse 
+Document Frequency.
