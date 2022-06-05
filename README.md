@@ -57,3 +57,6 @@ Extract Sample document and apply following document preprocessing methods:
 Tokenization, POS Tagging, stop words removal, Stemming and Lemmatization. 
 Create representation of document by calculating Term Frequency and Inverse 
 Document Frequency.
+
+# Technology
+Anaconda as a complete package with inbuilt libraries.
