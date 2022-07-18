@@ -13,3 +13,17 @@ plt.plot(X, y, 'b.')
 plt.xlabel("X")
 plt.ylabel("Y")
 plt.show()
+
+import seaborn as sns
+iris = sns.load_dataset('iris')
+iris.head()
+
+%matplotlib inline
+import seaborn as sns; sns.set()
+sns.pairplot(iris, hue='species', size=1.5);
+
+X_iris = iris.drop('species', axis=1)
+X_iris.shape
+
+y_iris = iris['species']
+y_iris.shape
