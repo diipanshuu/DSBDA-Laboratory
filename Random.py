@@ -153,3 +153,8 @@ import tkinter as tk
 from tkinter import filedialog
 from tkinter import *
 from PIL import ImageTk, Image
+
+from pylab import *
+x, y = arange(10), cos(x/2)
+plot(x, y)
+show()
